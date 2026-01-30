@@ -16,3 +16,5 @@ It is designed using semantic HTML tags to maintain accessibility, clean structu
 ## How To Run This Project
 
 1. Download or clone this repository: https://github.com/Monish697/html_resume_page.git
+
+![HomePage Image](HomePage.png)
